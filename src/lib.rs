@@ -1,3 +1,4 @@
+#![recursion_limit = "256"] // for async-stream
 #![allow(clippy::approx_constant)]
 #![allow(clippy::block_in_if_condition_stmt)]
 #![allow(clippy::float_cmp)]
