@@ -5474,6 +5474,7 @@ dependencies = [
  "openssl",
  "openssl-probe",
  "owning_ref",
+ "pin-project",
  "pretty_assertions",
  "prost",
  "prost-build",
