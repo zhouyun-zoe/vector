@@ -5489,6 +5489,7 @@ dependencies = [
  "inventory",
  "jemallocator",
  "k8s-openapi",
+ "k8s-runtime",
  "lazy_static 1.4.0",
  "leveldb",
  "libc",
